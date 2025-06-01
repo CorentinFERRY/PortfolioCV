@@ -3,8 +3,8 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site :'https://CorentinFERRY.github.io',
-  base: 'portfolioCV',
+  site :'https://corentinferry.github.io',
+  base: 'PortfolioCV',
   trailingSlash: 'always',
   integrations: [tailwind()],
 });
