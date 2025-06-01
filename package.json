@@ -12,6 +12,7 @@
   "dependencies": {
     "@astrojs/check": "0.4.1",
     "@astrojs/tailwind": "^5.1.5",
+    "@tailwindcss/vite": "^4.1.8",
     "astro": "4.3.2",
     "astro-font-picker": "^0.2.2",
     "hotkeypad": "0.1.0",
