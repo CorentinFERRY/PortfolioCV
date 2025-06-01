@@ -7,7 +7,7 @@
     "phone": "06.30.21.11.58",
     "url": "",
     "summary": "Actuellement au poste de responsable de magasin chez Picard. J’entame un projet de reconversion dans le domaine du développement web. Ayant trouvé une formation qui me convient en alternance je souhaite donc réussir ce projet à vos cotés.",
-    "theme": "blue",
+    "theme": "yellow",
     "location": {
       "address": "3bis Route de Frangy",
       "postalCode": "74960",
@@ -37,10 +37,7 @@
       "url": "https://www.picard.fr",
       "startDate": "2018-10-10",
       "endDate": "2025-08-16",
-      "summary": "Commerce alimentaire spécialisé",
-      "highlights": [
-        ""
-      ],
+      "summary": "Commerce alimentaire spécialisé",  
       "responsibilities": [
         "Conseil client",
         "Gestion des stocks",
@@ -184,27 +181,7 @@
         "SSR",
         "Static Generation"
       ]
-    },
-    {
-      "name": "C",
-      "level": "Moyen"
     }
-    ,
-    {
-      "name": "C++",
-      "level": "Moyen"
-    }
-    ,
-    {
-      "name": "Python",
-      "level": "Moyen"
-    }
-    ,
-    {
-      "name": "Java",
-      "level": "Moyen"
-    }
-
   ],
   "languages": [
     {
