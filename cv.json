@@ -1,192 +1,135 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "name": "Corentin FERRY",
+    "label": "Developpeur Full Stack Junior",
+    "image": "./ma_photo.jpg",
+    "email": "c.ferry78@laposte.net",
+    "phone": "06.30.21.11.58",
+    "url": "",
+    "summary": "Actuellement au poste de responsable de magasin chez Picard. J’entame un projet de reconversion dans le domaine du développement web. Ayant trouvé une formation qui me convient en alternance je souhaite donc réussir ce projet à vos cotés.",
+    "theme": "blue",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "address": "3bis Route de Frangy",
+      "postalCode": "74960",
+      "city": "Meythet",
+      "countryCode": "FR",
+      "region": "France"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "corentin-ferry",
+        "url": "https://www.linkedin.com/in/corentin-ferry-8b164a295/"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "CorentinFERRY",
+        "url": "https://github.com/CorentinFERRY"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "Picard Surgelés",
+      "position": "Responsable de magasin",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "location": "Epagny, France",
+      "url": "https://www.picard.fr",
+      "startDate": "2018-10-10",
+      "endDate": "2025-08-16",
+      "summary": "Commerce alimentaire spécialisé",
       "highlights": [
-        "Improved website performance by optimizing code"
+        ""
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Conseil client",
+        "Gestion des stocks",
+        "Gestion d'équipe",
+        "Plannification",
+        "Inventaires"
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Évolution d'un poste de vendeur à responsable de magasin en 3 ans",
+        "Mutation depuis la région parisienne"
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "4YOU",
+        "QuickCloud",
+        "Fiori"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "Matechplast",
+      "position": "Stagiaire BTS SN-IR",
+      "location_type": "On site",
+      "location": "Nuaillé, France",
+      "url": "https://www.matechplast.com/",
+      "startDate": "2017-06-01",
+      "endDate": "2017-08-01",
+      "summary": "Spécialiste d'Usinage Plastique de Précision",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Recencesement du parc informatique et création d'un base de donnée associée"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Recenser l'intégralité du parc informatique de l'entreprise zone d'usinage et bureaux.",
+        "Création d'un outil d'accès aux informations précédement recensées sous forme d'une base de données.",
+        "Développer une interface et un guide d'utilisation pratique de ces outils"
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Mission rempli dans le temps imparti par mon stage."
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "name": "Dassault Systèmes",
+      "position": "Stagiaire découverte 3ème",
+      "location_type": "On site",
+      "location": "Velizy, France",
+      "url": "https://www.3ds.com/fr/",
+      "startDate": "2010-01-20",
+      "endDate": "2010-01-27",
+      "summary": "Leader mondial dans les logiciels de modélisation 3D et d'ingénieurie.",
       "highlights": [
-        "Completed several client projects successfully"
+        "Découverte des métiers liés à la 3D"
       ],
       "skills": [
-        "HTML",
-        "CSS"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "CATIA",
+        "SOLIDWORKS"
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
+      "institution": "Lycée de l'Hyrôme",
+      "url": "https://hyrome.paysdelaloire.e-lyco.fr/",
+      "area": "BTS Systèmes numériques option informatique et réseaux",
+      "studyType": "BTS",
+      "startDate": "2016-09-01",
+      "endDate": "2018-07-01",
+      "score": "3.8"
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "institution": "Lycée Saint Jean-Baptiste de la Salle",
+      "url": "https://www.groupedelasalle-reims.com/le-lycee",
+      "area": "BAC STI2D",
+      "studyType": "BAC",
+      "startDate": "2012-09-01",
+      "endDate": "2014-07-01",
+      "score": "3.7"
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Brevet De Technicien Superieur",
+      "date": "2018-06-18",
+      "issuer": "Académie de Nantes",
+      "url":"https://ibb.co/KzbGq5xV"
     }
   ],
   "skills": [
-    {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
+
     {
       "name": "HTML",
-      "level": "Intermediate",
+      "level": "Moyen",
       "keywords": [
         "Web Development",
         "Frontend"
@@ -194,7 +137,7 @@
     },
     {
       "name": "CSS",
-      "level": "Intermediate",
+      "level": "Moyen",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -203,7 +146,7 @@
     },
     {
       "name": "JavaScript",
-      "level": "Intermediate",
+      "level": "Moyen",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -212,38 +155,8 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
       "name": "MySQL",
-      "level": "Intermediate",
+      "level": "Moyen",
       "keywords": [
         "Databases",
         "SQL",
@@ -252,17 +165,8 @@
       ]
     },
     {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
       "name": "GitHub",
-      "level": "Intermediate",
+      "level": "Débutant",
       "keywords": [
         "Version Control",
         "Collaboration",
@@ -272,7 +176,7 @@
     },
     {
       "name": "Next.js",
-      "level": "Beginner",
+      "level": "Débutant",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -282,40 +186,52 @@
       ]
     },
     {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "name": "C",
+      "level": "Moyen"
     }
+    ,
+    {
+      "name": "C++",
+      "level": "Moyen"
+    }
+    ,
+    {
+      "name": "Python",
+      "level": "Moyen"
+    }
+    ,
+    {
+      "name": "Java",
+      "level": "Moyen"
+    }
+
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Français",
+      "fluency": "Langue natale"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
+      "language": "Anglais",
+      "fluency": "B1"
     }
   ],
   "interests": [
     {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
+      "name": "Ski"
+    },
     {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "name":"Randonnée"
     }
+    ,
+    {
+      "name":"Série/Films"
+    }
+    ,
+    {
+      "name":"Jeux Vidéos"
+    }
+
   ],
   "projects": [
     {
