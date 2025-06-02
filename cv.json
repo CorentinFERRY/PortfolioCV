@@ -225,6 +225,19 @@
       ],
       "url": "https://corentinferry.github.io/PortfolioCV/",
       "github": "https://github.com"
+    },
+    {
+      "name": "GitHub",
+      "isActive": false,
+      "description": "Plusieurs codes réalisés déposé sur GitHub pour consultation.",
+      "highlights": [
+        "Projets divers",
+        "HTML, CSS, Python et autres à venir",
+        "Remise à niveau",
+        "En developpement continu"
+      ],
+      "url": "https://github.com/CorentinFERRY",
+      "github": "https://github.com"
     }
   ]
 }
