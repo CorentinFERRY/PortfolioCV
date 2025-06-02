@@ -137,6 +137,11 @@
       ]
     },
     {
+      "name": "Python",
+      "level": "Moyen"
+    },
+
+    {
       "name": "CSS",
       "level": "Moyen",
       "keywords": [
@@ -144,6 +149,10 @@
         "Frontend",
         "Responsive Design"
       ]
+    },
+    {
+      "name": "C/C++",
+      "level": "Moyen"
     },
     {
       "name": "JavaScript",
@@ -154,6 +163,10 @@
         "Backend",
         "Fullstack"
       ]
+    },
+    {
+      "name": "Java",
+      "level": "Moyen"
     },
     {
       "name": "MySQL",
